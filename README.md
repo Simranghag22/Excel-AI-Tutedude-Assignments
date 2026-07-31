@@ -10,6 +10,7 @@ This is where I'm keeping the assignments from my **Excel with AI** certificatio
 | 2 | [Cell Referencing & Essential Formulas](./Assignment-2) | Absolute/relative references, SUM/AVERAGE/MAX/MIN, COUNTIF, SUMIF family |
 | 3 | [Formatting, Pivot Tables & Data Management](./Assignment-3) | Conditional formatting, pivot tables, charts, data validation |
 | 4 | [Power Query, Advanced Formulas & Macros](./Assignment-4) | Power Query import/merge, IFS/VLOOKUP, Sparklines, Goal Seek, Macros |
+| 5 | Automation & BI using AI (Capstone) *(pending upload)* | Power Pivot, DAX measures, AI-assisted insights, interactive dashboard |
 
 ## 🛠 Tools & Skills Covered
 - Microsoft Excel (formulas, formatting, data validation)
