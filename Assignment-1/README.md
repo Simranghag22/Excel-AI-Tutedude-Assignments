@@ -12,7 +12,6 @@ For Task 3, I exported the completed sheet as a PDF, just to get used to that wo
 
 I also spent some time customizing my **Quick Access Toolbar**, adding the commands I use constantly (Save, Undo, Redo, Sort, Filter) so I'm not hunting through ribbon tabs every time.
 
-*(Official assignment brief: [Brief/Assignment-1-Brief.pdf](./Brief/Assignment-1-Brief.pdf))*
 
 ## 📁 Files
 | Folder | File | Description |
