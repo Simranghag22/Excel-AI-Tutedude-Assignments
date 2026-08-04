@@ -1,4 +1,4 @@
-# Simran Ghag — Excel Portfolio (Excel Certification — Tutedude)
+# Simran Ghag — Excel Certification — Tutedude
 
 **Certified in Excel** through Tutedude's hands-on, project-based **Advanced Excel With AI** program (completed 11/06/2026). This repo contains all 4 assignments — navigation and data entry, formulas, pivot tables and dashboards, and Power Query with macros — written up in my own words: what I built, what I found in the data, and what actually clicked along the way, rather than a checklist of completed steps.
 
